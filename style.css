@@ -1,0 +1,60 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Kumbh Sans', sans-serif;
+}
+
+body {
+    background-color: hsl(240, 73%, 65%);
+}
+
+/* Imagen box */
+body > img {
+    position: absolute;
+    margin-top: 180px;
+    margin-left: 160px;
+}
+
+.container {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin: auto;
+    margin-top: 70px; 
+    background-color: white;
+    width: 860px;
+    height: 460px;
+    border-radius: 20px;
+}
+
+.container > div {
+    font-size: 12px;
+    width: 50%;
+}
+
+.container > div > ul > li {
+    background-color: aqua;
+}
+
+.container {
+    background-image: url("/images/illustration-woman-online-desktop.svg"), url("/images/bg-pattern-desktop.svg");
+    background-repeat: no-repeat;
+    background-position: -80px 45px, -475px -250px;
+    background-size: auto, cover;
+}
+
+
+
+
+
+
+
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
