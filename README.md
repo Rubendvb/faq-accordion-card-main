@@ -70,3 +70,65 @@ Feedback is always welcome, so if you have any to give on this challenge please 
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
 **Have fun building!** 🚀
+
+##Solution
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+  <link rel="stylesheet" href="style.css">
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap" rel="stylesheet">
+  
+  <title>Frontend Mentor | FAQ Accordion Card</title>
+
+</head>
+<body>
+  
+  <img src="/images/illustration-box-desktop.svg">
+
+  <div class="container">
+    <div>
+      <h1>FAQ</h1>
+      <ul>
+        <ul>
+          <li>
+            How many team members can I invite?
+          </li>
+          <li>
+            You can invite up to 2 additional users on the Free plan. There is no limit on 
+            team members for the Premium plan.
+          </li>
+        </ul>
+        <li>
+          What is the maximum file upload size?
+          No more than 2GB. All files in your account must fit your allotted storage space.
+        </li>
+        <li>
+          How do I reset my password?
+          Click “Forgot password” from the login page or “Change password” from your profile page.
+          A reset link will be emailed to you.
+        </li>
+        <li>
+          Can I cancel my subscription?
+          Yes! Send us a message and we’ll process your request no questions asked.
+        </li>
+        <li>
+          Do you provide additional support?
+          Chat and email support is available 24/7. Phone lines are open during normal business hours.
+        </li>
+      </ul>
+
+      </div>
+  </div>
+
+  <div class="attribution">
+    Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
+    Coded by <a href="#">Your Name Here</a>.
+  </div>
+</body>
+</html>
