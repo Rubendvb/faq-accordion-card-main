@@ -8,4 +8,6 @@
 
 ## Versão Mobile
 
-![](./resultado/front-mentor-accordion-mobile.png)
+<p align="center">
+  <img src="./resultado/front-mentor-accordion-mobile.png" />
+</p>
